@@ -1,0 +1,5 @@
+src/main/java/utils/Urls.java,1616793585149947400,199,FORMATTED
+src/test/java/runners/RegistrarUsuarioRunnner.java,1616793585171935300,335,FORMATTED
+src/test/java/stepdefinition/RegistrarUsuarioStepDefinitions.java,1616793543655254900,468,FORMATTED
+src/test/java/stepdefinition/ConfiguracionInicial.java,1616793543640261600,581,FORMATTED
+src/main/java/tasks/Abrir.java,1616793543576304900,647,FORMATTED
